@@ -6,4 +6,3 @@ linear_regression.py: Contains the linear regression class and its functions lik
 test.py: Contains code for a basic test of the class.
 run.py: Can run the model with data.
 
-
